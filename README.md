@@ -4,6 +4,7 @@
 
 1. https://en.wikipedia.org/wiki/Circle
 2. https://en.wikipedia.org/wiki/Midpoint_circle_algorithm
+3. https://youtu.be/FTkO3ExDj3s
 
 ## Exercises
 
