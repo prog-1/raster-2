@@ -8,7 +8,7 @@
 
 ## Exercises
 
-Implement a program that contains `DrawCircle(*ebiten.Image, x, y, r int, c color.Color)` that function.
+Implement a program that contains `DrawCircle(*ebiten.Image, x, y, r int, c color.Color)` function.
 The function must be implemented using integer arithmetics only.
 
 A few OPTIONAL (!) ideas:
